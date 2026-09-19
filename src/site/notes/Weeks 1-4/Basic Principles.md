@@ -11,7 +11,7 @@
 > - Explain the difference between positive and normative economics and classify statements as positive or normative.
 > - Define ceteris paribus and explain the importance of this assumption in economic modeling.
 
-### Economic
+### Economics
 
 Scarcity -> Choice -> Tradoffs (Costs)
 
