@@ -3,7 +3,7 @@
 ---
 
 [[Homepage\|Homepage]]
-## Basic Principles
+## Basic Principle
 
 > [!important]- Key Points
 > - Apply basic economic principles of scarcity, opportunity cost, and marginal analysis to a given scenario.
