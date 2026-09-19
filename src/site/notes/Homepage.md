@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"dg-note-properties":{"tags":null}}
+{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 Nothing much yet! But many will be updated! Pls let me know if theres any issues :)
